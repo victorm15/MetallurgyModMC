@@ -12,7 +12,6 @@
 ## Mod Showcase
 
 ### Steel Armour Set
-<img src="steel_showcase.png" alt="Steel Showcase" width="500"/>
 ![Steel Showcase](steel_showcase.png)
 
 ### Forge Crafting Station
