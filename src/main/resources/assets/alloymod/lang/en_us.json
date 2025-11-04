@@ -1,0 +1,31 @@
+{
+  "item.alloymod.steel_ingot": "Steel Ingot",
+  "item.alloymod.iron_dust": "Refined Iron Dust",
+  "item.alloymod.coke": "Coke",
+  "item.alloymod.pig_iron": "Pig Iron",
+  "item.alloymod.steel_sword": "Steel Sword",
+  "item.alloymod.steel_pickaxe": "Steel Pickaxe",
+  "item.alloymod.steel_shovel": "Steel Shovel",
+  "item.alloymod.steel_hoe": "Steel Hoe",
+  "item.alloymod.steel_axe": "Steel Axe",
+  "item.alloymod.gold_dust": "Gold Dust",
+  "item.alloymod.electrum_ingot": "Electrum Ingot",
+  "item.alloymod.silver_dust": "Silver Dust",
+  "item.alloymod.steel_boots": "Steel Boots",
+  "item.alloymod.steel_leggings": "Steel Leggings",
+  "item.alloymod.steel_chestplate": "Steel Chestplate",
+  "item.alloymod.steel_helmet": "Steel Helmet",
+
+  "block.alloymod.steel_block": "Block of Steel",
+  "block.alloymod.silver_ore": "Silver Ore",
+  "block.alloymod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "item.alloymod.raw_silver": "Raw Silver",
+  "item.alloymod.silver_ingot": "Silver Ingot",
+  "block.alloymod.silver_block": "Block of Silver",
+  "block.alloymod.raw_silver_block":"Block of Raw Silver",
+
+  "block.alloymod.forge": "Forge",
+
+  "creativetab.alloys": "Alloys"
+
+}

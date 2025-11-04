@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alloymod:steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "alloymod:steel_ingot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "alloymod:block/forge_bottom",
+		"east": "alloymod:block/forge",
+		"north": "alloymod:block/forge",
+		"particle": "alloymod:block/forge",
+		"south": "alloymod:block/forge",
+		"up": "alloymod:block/forge_top",
+		"west": "alloymod:block/forge"
+	}
+}

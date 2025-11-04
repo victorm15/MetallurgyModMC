@@ -1,0 +1,4 @@
+// 1.20.1	2024-09-20T12:00:06.907166	Registries
+e095f981891659f6d9e59656b17560a4abf2db50 data/alloymod/forge/biome_modifier/add_silver_ore.json
+9f2602cf83d596e1d4584fb798e86d41aa8a4aea data/alloymod/worldgen/configured_feature/silver_ore.json
+01b570b6884d53f13557d133e6953487cf32737f data/alloymod/worldgen/placed_feature/silver_ore_placed.json

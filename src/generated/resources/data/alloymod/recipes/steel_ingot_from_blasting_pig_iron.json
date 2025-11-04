@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "pig iron",
+  "ingredient": {
+    "item": "alloymod:pig_iron"
+  },
+  "result": "alloymod:steel_ingot"
+}
