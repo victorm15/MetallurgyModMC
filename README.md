@@ -11,6 +11,11 @@
 
 ## Mod Showcase
 
+### Steel Armour Set
 ![Steel Showcase](steel_showcase.png)
+
+### Forge Crafting Station
 ![Forge Showcase](forge_showcase.png)
+
+### Silver Ore Generation
 ![Silver Showcase](silver_showcase.png)
