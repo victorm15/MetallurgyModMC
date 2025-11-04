@@ -11,8 +11,8 @@
 
 ## Mod Showcase
 
-### Steel Armour Set
-![Steel Showcase](steel_showcase.png)
+### Block and Item Showcase
+![Mod Showcase](mod_showcase.png)
 
 ### Forge Crafting Station
 ![Forge Showcase](forge_showcase.png)
